@@ -128,10 +128,10 @@ local version = "1.0"
 
 -- Window
 local Window = Rayfield:CreateWindow({
-   Name = "Plutonic | Arsenal ("..version..")",
+   Name = "DBSol | Arsenal ("..version..")",
    Icon = 0,
-   LoadingTitle = "Plutonic | Arsenal ("..version..")",
-   LoadingSubtitle = "by Opposed Dev",
+   LoadingTitle = "DBSol | Arsenal ("..version..")",
+   LoadingSubtitle = "by Glacio_tv",
    Theme = {
         TextColor = Color3.fromRGB(240, 240, 240),
 
